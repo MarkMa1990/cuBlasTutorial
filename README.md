@@ -1,5 +1,5 @@
 # cuBLASTutorial
-This project develops RCWA simulation code based on cuda c/c++.
+This project aims to understand how to use the cuBLAS library.
 
 
 ## example 1: cublas PA=LU decomposition
