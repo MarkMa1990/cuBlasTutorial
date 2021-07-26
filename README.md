@@ -1,4 +1,4 @@
-# cuRCWA
+# cuBLASTutorial
 This project develops RCWA simulation code based on cuda c/c++.
 
 
