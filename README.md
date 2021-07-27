@@ -12,7 +12,7 @@ A =
  [0.728199 0.317596 0.369686 0.084441 0.164917]
  [0.543888 0.235383 0.79529  0.206442 0.06706 ]]
 ```
-the function looks as following:
+the decomposition function looks as following:
 ```CUDA C
 cublasStatus_t cublasSgetrfBatched(cublasHandle_t handle,
                                    int n,
